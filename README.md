@@ -1,4 +1,4 @@
-
+Приветствую!!! Меня зовут Ваня. Я студент Политеха Петра Великого, направления "Радиотехника", группы 4931101/30002.
 
 <!--
 **Rickchil/Rickchil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
